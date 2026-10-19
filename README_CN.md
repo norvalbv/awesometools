@@ -105,6 +105,7 @@ Awesome Tools 整理众多操作系统下实用的工具和学习资源，项目
 - [sodaplayer](https://www.sodaplayer.com/) 种子播放器
 - [f.lux][f.lux] - 护眼模式工具
 - [Typora][typora] - markdown 编辑器
+- [Frink](https://frink.dev) - 人人可用的精细化自动化：用可视化工作流让 AI 编码智能体处理你的工单、报错和定时任务，并在改动任何内容之前先征求你的同意。支持 Claude Code、Codex、OpenCode、GitHub Copilot 和 Cursor。本地运行、开源，支持 macOS 和 Linux。
 
 ## Chrome扩展
 
